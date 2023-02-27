@@ -6,7 +6,15 @@ Colo-rectal cancer is one of the most commonly diagnosed cancers in the recent f
 
 
 #Preprocess the Data (Augmentation Techniques)
+
+
 # Train different model (Unet, DoubleUnet and ResuNet++)
+- U-Net
+- Resnet
+- ResUnet++
+- ColonSegNet
+- 
+
 # Apply Majority Voting
 # Generate Results
 # User
