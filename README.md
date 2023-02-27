@@ -15,11 +15,10 @@ Colo-rectal cancer is one of the most commonly diagnosed cancers in the recent f
 - ColonSegNet
 - Double −UNet
 
-# Apply Majority Voting
 
-# Generate Results
-# User
-# Provide Endoscopic Images
+# Research work (read more)
+https://2021.multimediaeval.com/paper34.pdf
+
 
 Created Web-App to Automate this process using Streamlit and Firebase, Finally generate .PDF Report for Results
 
