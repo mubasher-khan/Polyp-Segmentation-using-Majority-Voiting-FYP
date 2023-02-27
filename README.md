@@ -16,8 +16,10 @@ Colo-rectal cancer is one of the most commonly diagnosed cancers in the recent f
 - Double −UNet
 
 # Apply Majority Voting
+
 # Generate Results
 # User
 # Provide Endoscopic Images
 
 Created Web-App to Automate this process using Streamlit and Firebase, Finally generate .PDF Report for Results
+
