@@ -13,7 +13,7 @@ Colo-rectal cancer is one of the most commonly diagnosed cancers in the recent f
 - Resnet
 - ResUnet++
 - ColonSegNet
-- 
+- Double −UNet
 
 # Apply Majority Voting
 # Generate Results
