@@ -31,19 +31,20 @@ To streamline the polyp detection process, we have developed a web application u
 The project utilizes datasets from Simula Research Lab, which have been further augmented to enhance the model's training. The original and augmented datasets are available at the following links:
 
 Original Dataset: Simula Research Lab Dataset
-Augmented Dataset: Kaggle - Augmented Dataset
-Installation and Usage
-[Kaggle - Augmented Dataset](https://www.kaggle.com/datasets/muhammadhassaan786/augmented-dataset).] 
-(Provide a brief guide on how to install, configure, and use your application, including any required dependencies or libraries.)
+Augmented Dataset: `[https://www.kaggle.com/datasets/muhammadhassaan786/augmented-dataset]
+
+## Installation and Usage
+
+config and requirement.txt will add
 
 ## Contributing
 
-(Instructions for other developers on how they can contribute to your project. Include guidelines on pull requests, coding standards, or other procedures you'd like contributors to follow.)
+(for other developers on how they can contribute to your project. Include guidelines on pull requests, coding standards, or other procedures you'd like contributors to follow.)
 
 ##  License
 
-(Specify the license under which your project is released, if applicable.)
+(will add the license under which your project is released, if applicable.)
 
 ##  Acknowledgments
 
-(A section to acknowledge any individuals, organizations, or institutions that contributed to the success of the project.)
+(A  acknowledge any individuals, organizations, or institutions that contributed to the success of the project.)
