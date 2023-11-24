@@ -21,6 +21,7 @@ Our approach includes training different models to compare their effectiveness i
 ## Research Work
 
 For detailed insights and methodologies, refer to our research paper: Multimedia Evaluation 2021 Paper. The paper elaborates on the technical aspects and the innovative approaches we have implemented in this project.
+`[https://2021.multimediaeval.com/paper34.pdf]`
 
 ##  Web Application
 
@@ -31,7 +32,7 @@ To streamline the polyp detection process, we have developed a web application u
 The project utilizes datasets from Simula Research Lab, which have been further augmented to enhance the model's training. The original and augmented datasets are available at the following links:
 
 Original Dataset: Simula Research Lab Dataset
-Augmented Dataset: `[https://www.kaggle.com/datasets/muhammadhassaan786/augmented-dataset]
+Augmented Dataset: `[https://www.kaggle.com/datasets/muhammadhassaan786/augmented-dataset]`
 
 ## Installation and Usage
 
