@@ -1,24 +1,49 @@
-# Polyp-Segmentation-using-Majority-Voiting-FYP
+# Polyp Segmentation using Majority Voting - FYP
 
+## Abstract
 
-# Abstract 
-Colo-rectal cancer is one of the most commonly diagnosed cancers in the recent few years. Recent studies show that 80%-95% are found in the intestine which would be the leading cause of cancer-related deaths globally. However, the conventional method is screening and diagnosis in colonoscopy that is highly dependent on the expert endoscopist skills & analyzing experience. Even though many methods to challenge the polyps detection and segmentation bench-marking state-of-the-art methods still remains a problem. Therefore our main goal is to obtain an early and accurate diagnosis of polyps in the early stage.For we use a state-of-the-art Deep Learning Model with different backbone architecture(Res- Net50) and (Res-Net101) and U-net to enhance the performance and detection.For this we used pre-trained models on the polyps datasets, Kvasir-SEG, CVC-Clinic 612.we present the UNET architecture for the polyps segmentation in addition to proposing a novel com- bination of UNET and other Neural networks to enhance the performance
+Colorectal cancer ranks among the most frequently diagnosed cancers in recent years. A significant percentage of these cancers originate in the intestines, potentially leading to a global rise in cancer-related deaths. Conventional colonoscopy, highly reliant on an endoscopist's expertise, is the standard for screening and diagnosis. However, accurately detecting and segmenting polyps remains challenging despite advancements in technology. Our project aims to facilitate early and precise polyp diagnosis using cutting-edge Deep Learning models, leveraging architectures like Res-Net50, Res-Net101, U-net, and others. These models are pretrained on comprehensive polyps datasets like Kvasir-SEG and CVC-Clinic 612, enhancing detection performance.
 
+Preprocessing the Data
 
-#Preprocess the Data (Augmentation Techniques)
+We employ various data augmentation techniques to enhance the diversity and quality of the dataset, crucial for improving the model's accuracy and robustness.
 
+### Training Models
 
-# Train different model (Unet, DoubleUnet and ResuNet++)
+Our approach includes training different models to compare their effectiveness in polyp segmentation:
+
 - U-Net
-- Resnet
+- ResNet
 - ResUnet++
 - ColonSegNet
-- Double −UNet
+- Double−UNet
 
+## Research Work
 
-# Research work (read more)
-https://2021.multimediaeval.com/paper34.pdf
+For detailed insights and methodologies, refer to our research paper: Multimedia Evaluation 2021 Paper. The paper elaborates on the technical aspects and the innovative approaches we have implemented in this project.
 
+##  Web Application
 
-Created Web-App to Automate this process using Streamlit and Firebase, Finally generate .PDF Report for Results
+To streamline the polyp detection process, we have developed a web application using Streamlit and Firebase. This app allows for easy uploading and processing of endoscopic images, with the results presented in a downloadable PDF report format.
 
+##  Datasets
+
+The project utilizes datasets from Simula Research Lab, which have been further augmented to enhance the model's training. The original and augmented datasets are available at the following links:
+
+Original Dataset: Simula Research Lab Dataset
+Augmented Dataset: Kaggle - Augmented Dataset
+Installation and Usage
+
+(Provide a brief guide on how to install, configure, and use your application, including any required dependencies or libraries.)
+
+## Contributing
+
+(Instructions for other developers on how they can contribute to your project. Include guidelines on pull requests, coding standards, or other procedures you'd like contributors to follow.)
+
+##  License
+
+(Specify the license under which your project is released, if applicable.)
+
+##  Acknowledgments
+
+(A section to acknowledge any individuals, organizations, or institutions that contributed to the success of the project.)
