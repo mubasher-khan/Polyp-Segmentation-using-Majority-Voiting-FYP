@@ -79,6 +79,13 @@ def dice_loss(y_true, y_pred):
 
 # Read and preprocess image
 def read_image(path):
+    """
+    This function is used to read the image and  resize the image
+    and then rescale the image for segmentation.
+
+    --- Parameters 
+    Args: path
+    """
     x = cv2.imread(path, cv2.IMREAD_COLOR)
     x = cv2.resize(x, (256, 256))
     x = x/255.0
